@@ -1,15 +1,16 @@
 ---
-title: Bachelor of Science in Criminal Justice
-location: University of California, Los Angeles (UCLA)
-url: http://foeberoz.gm/kuj
-institute: University of California
-date: 1970-1975
+title: Bachelor of Software Development
+location: Aalborg, DK
+url: https://www.ucn.dk/uddannelser/softwareudvikling/
+institute: University College of Northern Denmark
+date: 2018-2019
 tags:
   [
-    "Criminal Justice",
-    "Law Enforcement",
-    "Legal Studies",
-    "Public Safety",
-    "Court System",
+    "IT Management",
+    "Software Engineering",
+    "Big Data & Data Science",
+    "Distributed systems",
+    "Discrete Mathematics",
+    "Cybersecurity",
   ]
 ---

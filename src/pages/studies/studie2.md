@@ -1,8 +1,8 @@
 ---
-title: Advanced SWAT Tactics and Leadership Training
-location: FBI Academy
-url: http://ni.sb/mehanad
-institute: FBI Academy
-date: 1975-1980
-tags: ["Conflict Resolution", "Strategic Planning", "Risk Assessment", "Firearms Training", "Emergency Response"]
+title: Undergraduate Degree in Computer Science
+location: Aaborg, DK
+url: https://ucn.dk/english/study-at-ucn/computer-science/#at-menu
+institute: University College of Northern Denmark
+date: 2015-2018
+tags: ["Systems development", "Programming", "Algorithms and Data structures", "Database systems", "Communication & Networking"]
 ---

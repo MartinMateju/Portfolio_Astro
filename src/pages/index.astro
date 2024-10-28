@@ -6,7 +6,7 @@ import Header from "../components/Header.astro";
 import { Icon } from "astro-icon/components";
 ---
 
-<html lang="gl">
+<html lang="en">
   <head>
     <script is:inline>
       if (localStorage.getItem("theme") === null) {
@@ -22,10 +22,10 @@ import { Icon } from "astro-icon/components";
       themeChange();
     </script>
     <meta charset="utf-8" />
-    <link rel="icon" type="image/png" href="/favicon.webp" />
+    <link rel="icon" type="image/png" href="/fav.ico" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="generator" content={Astro.generator} />
-    <title>Cezar Kelso CV</title>
+    <title>Martin Matějů|Mateju Portfolio</title>
   </head>
   <body class="flex flex-col min-h-screen">
     <Header />

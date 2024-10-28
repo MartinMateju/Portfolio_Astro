@@ -1,5 +1,5 @@
 ---
-title: Email
+title: martin.mateju23@gmail.com
 icon: carbon:email
-url: mailto:juz@hoper.ph
+url: mailto:martin.mateju23@gmail.com
 ---

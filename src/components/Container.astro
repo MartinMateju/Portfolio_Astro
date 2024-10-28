@@ -10,7 +10,7 @@ const studies = await Astro.glob("../pages/studies/*.md");
 const certificates = await Astro.glob("../pages/certificates/*.md");
 const blogs = await Astro.glob("../pages/blogs/*.md");
 const contact = await Astro.glob("../pages/contact/*.md");
-const PDF = "/cv-20240219.pdf";
+const PDF = "/martin_mateju_cv.pdf";
 ---
 
 <div class="join join-vertical gap-1">
@@ -20,7 +20,7 @@ const PDF = "/cv-20240219.pdf";
     </article>
   </AccordionLayout>
 
-  <AccordionLayout title={"Work"} icon={"carbon:construction"}>
+  <AccordionLayout title={"Work"} icon={"carbon:code"}>
     {
       works.map((item) => {
         return (
@@ -55,7 +55,7 @@ const PDF = "/cv-20240219.pdf";
     }
   </AccordionLayout>
 
-  <AccordionLayout title={"Projects"} icon={"carbon:tools"}>
+  <AccordionLayout title={"Projects"} icon={"carbon:plan"}>
     {
       projects.map((item) => {
         return (
